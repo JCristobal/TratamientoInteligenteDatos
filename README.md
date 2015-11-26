@@ -12,7 +12,7 @@ Los análisis realizados en R con algunas de las capturas de sus resultados:
 
 * Análisis básico de estádistica unidimensional: [captura de "pie chart" generado](http://i.imgur.com/LLkJqqV.png)
 
-* Análisis básico de estádistica bidimensional: capturas de [análisis de valores por grupo](http://i.imgur.com/MavJD83.png), [relación ventas-categoría](http://i.imgur.com/OxKKMe7.png) y ["scatter plot"](http://i.imgur.com/8cmaiAP.png)
+* Análisis básico de estádistica bidimensional: capturas de [análisis de valores por grupo](http://i.imgur.com/MavJD83.png), [relación ventas-categoría](http://i.imgur.com/21fCmsq.png) y ["scatter plot"](http://i.imgur.com/8cmaiAP.png)
 
 
 * Análisis factorial: [captura realizada en el análisis](http://i.imgur.com/R7ZLZvI.png)
