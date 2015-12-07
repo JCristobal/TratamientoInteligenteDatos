@@ -23,10 +23,12 @@ Los análisis realizados en R con algunas de las capturas de sus resultados:
 
 El [proyecto en KNIME](https://github.com/JCristobal/TratamientoInteligenteDatos/blob/master/KNIME_project.zip) está comprimido, para trabajar con él: descomprimir e importar en KNIME.
 
-Pantallazos de las distintas partes del proyecto:
+Capturas de las distintas partes del proyecto:
 
 * [Parte de pre-procesamiento de datos](http://i.imgur.com/fto4cHf.png)
 
 * [Manipulación del dataset](http://i.imgur.com/zf5PFU1.png)
 
 * [Primer análisis de componentes](http://i.imgur.com/4QQteXM.png)
+
+* [Cluestring: agrupamiento con K-medias](http://i.imgur.com/eW9wzq3.png): [Agrupamiento resultante](http://i.imgur.com/84L0Go9.png)
