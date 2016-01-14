@@ -2,9 +2,10 @@
 Contenidos de la asignatura Tratamiento Inteligente de Datos, del Máster de Ingeniería Informática
 
 
-Anális del conjunto de datos [forbes2000](http://www.stats4stem.org/r-forbes2000-data.html), lista del ranking de la lista de Forbes de las compañías más grandes del mundo.
+Análisis del conjunto de datos [forbes2000](https://vincentarelbundock.github.io/Rdatasets/datasets.html), lista del ranking de la lista de Forbes de las compañías más grandes del mundo.
 
-Se analizarán los datos con R y con KNIME (*En el repositorio sólo se añadiran algunas conclusiones*).
+Se analizarán los datos con R y con KNIME (*En el repositorio sólo se añadiran algunas conclusiones*. La [presentación](https://github.com/JCristobal/TratamientoInteligenteDatos/blob/gh-pages/analisis_forbes2000_JCristobal_presentacion.pdf) realizada también se añade (formato PDF)).
+
 
 ***
 
@@ -23,12 +24,14 @@ Los análisis realizados en R con algunas de las capturas de sus resultados:
 
 El [proyecto en KNIME](https://github.com/JCristobal/TratamientoInteligenteDatos/blob/master/KNIME_project.zip) está comprimido, para trabajar con él: descomprimir e importar en KNIME.
 
-Capturas de las distintas partes del proyecto:
+Capturas de algunas partes del proyecto:
 
-* [Parte de pre-procesamiento de datos](http://i.imgur.com/fto4cHf.png)
+* [Parte de pre-procesamiento y procesamiento de datos](http://i.imgur.com/fto4cHf.png): se pueden ver por ejemplo algunos promedios ([1](http://i.imgur.com/Ux7JG1R.png) y [2](http://i.imgur.com/i4bO3UY.png))
 
 * [Manipulación del dataset](http://i.imgur.com/zf5PFU1.png)
 
 * [Primer análisis de componentes](http://i.imgur.com/4QQteXM.png)
 
 * [Cluestring: agrupamiento con K-medias](http://i.imgur.com/eW9wzq3.png): [Agrupamiento resultante](http://i.imgur.com/84L0Go9.png)
+
+* Regresión: [Correlación](http://i.imgur.com/E6WHeNH.png)
